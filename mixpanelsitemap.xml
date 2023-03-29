@@ -1,0 +1,1156 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2708
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 <?xml version="1.0" encoding="UTF-8"?>\
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\
+<url>\
+      <loc>www.mixpanel.com</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>www.mixpanel.com/pricing</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/behavioral-analytics/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/dashboards-alerts/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/segmentation/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/group-analytics/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/data-integrations/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/data-governance/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/security-privacy/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/scale/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/solutions/convert/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/solutions/engage/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/solutions/retain/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mxpnl.notion.site/mxpnl/Mixpanel-FAQs-57176b0d11704e56b5f5567355f15081</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/pricing-transparency-product-analytics/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/introducing-embeddable-reports/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/twilio-segment-cdp-report-2023-product-analytics/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/product-analytics-data-vc-investment-startup/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/what-is-a-good-stickiness-metric/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/mau/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/top-customer-retention-metrics/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/analytics-implementation-feature-development-sprint/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/top-user-onboarding-metrics/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/company-kpis-dashboard-template-release-metrics/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/mobile-app-user-journeys-best-practices-mixpanel/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/elements-successful-onboarding/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/what-is-mobile-app-event-tracking/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/analytics-metrics-product-led-growth/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://mixpanel.com/blog/how-to-measure-feature-adoption/</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://help.mixpanel.com/hc/en-us/articles/360041989072-What-is-Mixpanel-</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://help.mixpanel.com/hc/en-us/articles/360042412051-How-to-Learn-Mixpanel</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://help.mixpanel.com/hc/en-us/articles/4402682208404-Onboarding-Work-Plan-</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://help.mixpanel.com/hc/en-us/articles/360041693771-Mixpanel-Concepts-Users</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://help.mixpanel.com/hc/en-us/articles/360041995352-Mixpanel-Concepts-Events</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://help.mixpanel.com/hc/en-us/articles/360000857366-Guide-to-Mixpanel-Basics</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://help.mixpanel.com/hc/en-us/articles/360000865566-Guide-to-Mixpanel-Implementation</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://help.mixpanel.com/hc/en-us/articles/360000894623-Guide-to-Mixpanel-Analysis</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://help.mixpanel.com/hc/en-us/articles/7647365321620-Growth-Primer</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://help.mixpanel.com/hc/en-us/articles/7647069378196-Retention-Primer</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://help.mixpanel.com/hc/en-us/articles/7646382971796-Engagement-Primer</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://help.mixpanel.com/hc/en-us/articles/360000894623-Guide-to-Mixpanel-Analysis</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://help.mixpanel.com/hc/en-us/articles/360031037172-Guide-to-Mixpanel-Admin</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/plan-your-implementation</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/data-structure-deep-dive</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/client-side-vs-server-side-tracking</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/under-the-hood</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/javascript-quickstart</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/server</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/react-native-quickstart</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/flutter-quickstart</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/ios-swift-quickstart</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/ios-objective-c-quickstart</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/android-quickstart</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/unity-quickstart</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/cloud-ingestion</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/segment</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/rudderstack</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/mparticle</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/freshpaint</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/snowplow</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/gcs-import</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/s3-import</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/google-pubsub</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/javascript</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/javascript-full-api-reference</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/ios</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/swift</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/android</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/react-native</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/flutter</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/unity</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/python</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/nodejs</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/php</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/java</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/ruby</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/collection-via-a-proxy</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/privacy-security</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/partner-integration-id</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/cohort-webhooks</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/jql-overview</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/schematized-export-pipeline</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/aws-raw-pipeline</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/gcs-raw-pipeline</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/azure-raw-pipeline</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/mixpanel-amazon-s3-export</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/mixpanel-bigquery-export-design</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/mixpanel-snowflake-export</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/gcs</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/docs/azure-blob-storage</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/overview</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/service-accounts</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/project-token</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/project-secret</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/request-signature</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/segmentation-expressions</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/ingestion-api</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/import-events</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/track-event</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/ingestion-api-authentication</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/profile-set</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/profile-set-property-once</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/profile-numerical-add</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/user-profile-union</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/profile-append-to-list-property</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/profile-remove-from-list-property</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/profile-delete-property</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/profile-batch-update</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/delete-profile</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/user-profile-limits</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/group-set-property</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/group-set-property-once</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/group-delete-property</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/group-remove-from-list-property</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/group-union</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/group-batch-update</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/delete-group</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/limits-1</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/lookup-tables</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/list-lookup-tables</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/replace-lookup-table</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/create-identity</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/identity-create-alias</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/identity-merge</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/query-api</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/insights-query</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/query-api-authentication</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/funnels-query</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/funnels-list-saved</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/retention-query</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/retention-frequency-query</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/segmentation-query</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/segmentation-numeric-query</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/segmentation-sum-query</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/segmentation-query-average</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/activity-stream-query</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/cohorts-list</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/engage-query</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/list-recent-events</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/query-top-events</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/query-months-top-event-names</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/query-event-properties</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/query-events-top-properties</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/query-events-top-property-values</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/query-jql</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/raw-data-export-api</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/raw-data-export-api-authentication</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/raw-event-export</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/lexicon-schemas-api</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/lexicon-schemas-api-authentication</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/list-all-schemas-for-project</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/list-schemas-for-entity</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/list-schemas-by-entity-and-name</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/upload-schemas-for-project</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/upload-schema-by-entity-and-name</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/delete-all-schemas-in-project</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/delete-schemas-for-entity</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/delete-schema-by-entity-and-name</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/limits</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/list-warehouse-pipeline-jobs</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/get-warehouse-pipeline-status</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/list-warehouse-pipeline-sync-dates</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/create-warehouse-pipeline</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/edit-warehouse-pipeline</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/cancel-warehouse-pipeline</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/pause-warehouse-pipeline</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/resume-warehouse-pipeline</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/connectors-api</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/data-warehouse-api-authentication</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/get-connectors</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/get-connector</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/get-connector-logs</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/create-connector</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/delete-connector</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/service-accounts-api</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/list-service-accounts</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/get-service-account</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/service-accounts-api-authentication</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/create-service-account</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/delete-service-account</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/list-project-service-accounts</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/add-service-accounts-to-projects</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/remove-service-accounts-from-projects</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/overview-1</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/list-all-annotations-for-project</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/get-annotation-1</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/create-annotation</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/patch-annotation-1</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+<url>\
+      <loc>https://developer.mixpanel.com/reference/delete-annotation-1</loc>\
+      <lastmod>2005-01-01</lastmod>\
+      <changefreq>weekly</changefreq>\
+      <priority>0.5</priority>\
+</url>\
+</urlset>}
